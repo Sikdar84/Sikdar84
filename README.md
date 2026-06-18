@@ -1,9 +1,4 @@
----
-title: Manoj Sikdar's CS 499 ePortfolio
-layout: default
----
-
-# Manoj Sikdar - CS 499 ePortfolio
+# Manoj Chaudhary - CS 499 ePortfolio
 
 ## Welcome to My Professional ePortfolio
 
